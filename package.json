@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "http://Sureway100.github.io/car_choice",
+  "homepage": "http://Sureway100.github.io/beta_cars",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
